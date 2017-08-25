@@ -20,3 +20,11 @@ li{
 ul {
   padding: 0;
 }
+
+.nav {
+  display: flex;
+}
+
+.active{
+  font-weight: bold;
+}
